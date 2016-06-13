@@ -1,0 +1,1 @@
+This project is for Android Nano degree course to show the stock status.
